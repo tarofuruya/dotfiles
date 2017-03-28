@@ -1,5 +1,5 @@
 [user]
-	name = taro furuya
+	name = Taro Furuya
 	email = taro.furuya@gmail.com
 [core]
 	excludesfile = /Users/t_furuya/.gitignore_global
@@ -9,3 +9,5 @@
 [mergetool "sourcetree"]
 	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
+[commit]
+	template = /Users/t_furuya/.stCommitMsg
