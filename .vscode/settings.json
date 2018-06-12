@@ -10,5 +10,6 @@
     },
     "editor.cursorStyle": "line",
     "editor.cursorBlinking": "expand",
-    "editor.renderIndentGuides": true
+    "editor.renderIndentGuides": true,
+    "git.ignoreLimitWarning": true
 }
