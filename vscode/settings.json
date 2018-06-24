@@ -28,5 +28,8 @@
         "**/dist/**": true
     },
     "git.autofetch": true,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "ruby.lint": {
+        "rubocop": true
+    }
 }
