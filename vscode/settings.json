@@ -1,6 +1,7 @@
 // 既定の設定を上書きするには、このファイル内に設定を挿入します
 {
     "editor.fontFamily": "Consolas, Menlo, Monaco, 'Courier New', monospace",
+    "editor.tabSize": 2,
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
