@@ -2,6 +2,7 @@
 {
     "editor.fontFamily": "Consolas, Menlo, Monaco, 'Courier New', monospace",
     "editor.tabSize": 2,
+    "editor.formatOnSave": true,
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
