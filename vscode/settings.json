@@ -8,7 +8,7 @@
         "**/.svn": true,
         "**/.hg": true,
         "**/.DS_Store": true,
-        ".meta":true,
+        ".meta": true,
         "**/CVS": true,
         "**/tmp": true,
         "**/node_modules": true,
@@ -32,6 +32,8 @@
     "git.autofetch": true,
     "explorer.confirmDelete": false,
     "ruby.lint": {
-        "rubocop": true
-    }
+        "rubocop": true,
+        "fasterer": true
+    },
+    "ruby.rctComplete.commandPath": "~/.rbenv/shims/rct-complete"
 }
