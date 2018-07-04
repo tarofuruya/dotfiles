@@ -11,7 +11,7 @@ which brew >/dev/null 2>&1 && brew update
 
 echo "ok. run brew upgrade..."
 
-brew upgrade --all
+brew upgrade
 
 formulas=(
 atk
