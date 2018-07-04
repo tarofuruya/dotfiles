@@ -8,6 +8,9 @@ do
     ln -snfv ~/dotfiles/$f ~/$f    
 done
 
+# brew
+bash ./install_brew.sh
+
 # VSCode
 cd ~/Library/Application\ Support/Code/User/
 rm settings.json
