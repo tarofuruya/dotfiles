@@ -35,5 +35,6 @@
         "rubocop": true,
         "fasterer": true
     },
-    "ruby.rctComplete.commandPath": "~/.rbenv/shims/rct-complete"
+    "ruby.rctComplete.commandPath": "~/.rbenv/shims/rct-complete",
+    "ruby.codeCompletion": "rcodetools"
 }

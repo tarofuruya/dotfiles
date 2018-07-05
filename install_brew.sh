@@ -16,6 +16,7 @@ brew upgrade
 formulas=(
 atk
 autoconf
+awscli
 cairo
 fontconfig
 freetype
