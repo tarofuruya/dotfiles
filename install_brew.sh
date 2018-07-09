@@ -78,6 +78,7 @@ casks=(
     hammerspoon
     dropbox
     evernote
+    github-desktop
     google-chrome
     google-japanese-ime
     slack
