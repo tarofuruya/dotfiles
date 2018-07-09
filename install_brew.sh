@@ -18,6 +18,7 @@ atk
 autoconf
 awscli
 cairo
+coreutils
 fontconfig
 freetype
 fribidi
