@@ -84,6 +84,7 @@ casks=(
     slack
     cyberduck
     visual-studio-code
+    docker
 )
 
 echo "start brew cask install apps..."
