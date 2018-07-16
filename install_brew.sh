@@ -81,6 +81,7 @@ casks=(
     github
     google-chrome
     google-japanese-ime
+    iterm2
     slack
     cyberduck
     visual-studio-code
