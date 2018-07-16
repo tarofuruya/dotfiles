@@ -36,5 +36,6 @@
         "fasterer": true
     },
     "ruby.rctComplete.commandPath": "~/.rbenv/shims/rct-complete",
-    "ruby.codeCompletion": "rcodetools"
+    "ruby.codeCompletion": "rcodetools",
+    "terminal.integrated.rendererType": "dom"
 }
