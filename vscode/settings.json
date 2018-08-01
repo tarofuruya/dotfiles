@@ -18,6 +18,7 @@
     "editor.cursorStyle": "line",
     "editor.cursorBlinking": "expand",
     "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "all",
     "window.zoomLevel": 0,
     "git.confirmSync": false,
     "python.pythonPath": "~/src/TensorFlow/bin/python",
@@ -37,5 +38,6 @@
     },
     "ruby.rctComplete.commandPath": "~/.rbenv/shims/rct-complete",
     "ruby.codeCompletion": "rcodetools",
-    "terminal.integrated.rendererType": "dom"
+    "terminal.integrated.rendererType": "dom",
+    "workbench.editor.enablePreview": false
 }
